@@ -16,7 +16,7 @@
 title: Plant Emotion
 email: duerr.sebastian@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Indicating the happiness level of plants with Machine Learning.
+  Evaluating happiness of plants with ML
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://plant-emotion.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
