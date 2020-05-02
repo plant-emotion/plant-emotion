@@ -1,5 +1,5 @@
 ---
-title: "First steps: Onboarding call Josephine & Sebastian"
+title: "First steps: Onboarding call J&S"
 layout: post
 author: "Sebastian"
 categories: organizational
