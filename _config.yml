@@ -16,9 +16,9 @@
 title: "[Plant] Emot[ions]"
 email: duerr.sebastian@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Evaluating happiness of plants with ML
+  Exploring happiness through plants with ML
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://plantions.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://plantions.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: duerrseb
 github_username:  seduerr91
