@@ -19,6 +19,7 @@ layout: default
         {{ site.description }}
       </h2>
     {% endif %}
+    <img src="assets/images/icon-512.png" alt="" align='center'>
   </header>
 {% endif %}
 
@@ -33,7 +34,7 @@ layout: default
   </h1>
 
   {% if site.paginate and site.paginate_path %}
-    
+
     <ul class="post-list">
       {% for post in paginator.posts %}
         {% include post-list-item.html %}
@@ -65,8 +66,8 @@ layout: default
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
-  
+
   {% endif %}
-    
+
 
 </main>
