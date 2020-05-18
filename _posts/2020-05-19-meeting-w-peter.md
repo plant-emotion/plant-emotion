@@ -27,9 +27,10 @@ Additional: Josephine and Peter one-on-one [10 min].
 - ## headline 2, etc.
 
 ##### Next Steps
-1. C
-2. B
-3. A
+
+1. Alles schoene macht der Mai.
+2. Besser geht es nicht.
+3. Coole Sache, was wir da machen.
 
 #### Status Quo: Sebastian's work [10 min]
 
@@ -79,7 +80,7 @@ We value your opinion and would want to hear what you are planning with us. Open
 
 ### Organizational Matters: Updates on MIT and Covid19 [5 min]
 
-We are aware of the fact that the situation current situation is inherently difficult, and so, were are not expecting any updates.
+We are aware that the current situation is difficult to predict, and so, were are not expecting any updates.
 Still, do you have some? :wink:
 
 ### Thank you very much for your time, and your guidance.
