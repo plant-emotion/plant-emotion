@@ -24,7 +24,7 @@ Additional: Josephine and Peter one-on-one [10 min].
 ##### Status Quo
 - Link example: [link to Google!](http://google.com)
 - __text highlighting__, _italics_
-- ## headline 2, etc.
+- headlines with hashtags, etc.
 
 ##### Next Steps
 
