@@ -37,9 +37,9 @@ Additional: Josephine and Peter one-on-one [10 min].
 
 Overview of my first two weeks into the project.
 
-1. Audio Processing: [audiofile_creator](https://github.com/plantions/creatingEmotionAudios), [Research on MFCC](https://plantions.github.io/project/2020/05/11/sound.html)
-2. Object Tracking: Advancing book on [OpenCV4](https://plantions.github.io/project/2020/05/14/opencv.html) for object tracking in [Jupyter notebook](https://github.com/plantions/video-edge-extractor) with focus on [tracking leaves](https://github.com/plantions/video-edge-extractor/blob/master/Tracking_leaves.ipynb)
-3. Coordinating Infrastructure: Meets with Josephine, [Blog](plantions.github.io), [Trello](https://trello.com/b/bgOuMEt0/mit-emotions-via-plants), [Github Repository](https://github.com/plantions), [Google Drive](https://drive.google.com/drive/folders/1eXMw6ud5SzLtQtpqs4tOAtf8WXSMhvWM), [Mendeley Team](https://www.mendeley.com/community/plantions.net/)
+1. Audio Processing: [audiofile_creator](https://github.com/plantions/creatingEmotionAudios) and [Research on MFCC](https://plantions.github.io/project/2020/05/11/sound.html).
+2. Object Tracking: Advancing book on [OpenCV4](https://plantions.github.io/project/2020/05/14/opencv.html) for object tracking in [Jupyter notebook](https://github.com/plantions/video-edge-extractor) with focus on [tracking leaves](https://github.com/plantions/video-edge-extractor/blob/master/Tracking_leaves.ipynb).
+3. Coordinating Infrastructure: Meets with Josephine, [Blog](plantions.github.io), [Trello](https://trello.com/b/bgOuMEt0/mit-emotions-via-plants), [Github Repository](https://github.com/plantions), [Google Drive](https://drive.google.com/drive/folders/1eXMw6ud5SzLtQtpqs4tOAtf8WXSMhvWM), and [Mendeley Team](https://www.mendeley.com/community/plantions.net/).
 
 ##### Next Steps
 
@@ -51,12 +51,12 @@ These will be Sebastian's further steps, scheduled for May 2020. *What is your o
 
 ### Collaboration Tools & Coordination [5 min]
 
-Please find a brief overview on how Josephine and Sebastian are collaborating. We kindly invite you to be part of any system we are using. However, we assume that you are very busy, and, hence, we would continue to create concise summaries like this block to navigate you through our works.
+Please find a brief overview on how Josephine and Sebastian are collaborating. We kindly invite you to be part of any system we are using. However, we assume that you are very busy, and, hence, we would continue to create concise summaries like this blog to navigate you through our works.
 
-- Weekly coordination meetings for May/June 2020: every Tue, 17-18h, and every Fri, 14-14:30, Austrian time. *Do you want to participate weekly?*
+- Weekly coordination meetings for May/June 2020: every Tue, 17-18h, and every Fri, 14-14:30, Austrian time. *Do you want to participate regularly?*
 - Coordination tools: Trello, Github, Meets, Whatsapp. *Do you want to be invited to any?*
-- Progress tracking: [On this blog](plantions.github.io) *We would send you posts directly, if we deem them necessary*
-- Roadmap: tbd *Maybe we can draft an initial version after part 4 'Strategic Assessment'*
+- Progress tracking: [On this blog](plantions.github.io). *We would send you posts directly, if we deem them necessary*
+- Roadmap: tbd. *Maybe we can draft an initial version after part 4 'Strategic Assessment'*
 
 ### Brainstorming / Feedback: How to improve data quality [5 min]
 
