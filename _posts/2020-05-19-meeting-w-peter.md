@@ -22,15 +22,20 @@ Additional: Josephine and Peter one-on-one [10 min].
 #### Status Quo: Josephine's work [10 min]
 
 ##### Status Quo
-- Link example: [link to Google!](http://google.com)
-- __text highlighting__, _italics_
-- headlines with hashtags, etc.
+1. Finished Mimosa x MFCC Analysis with old data
+2. Wrote script to split video into samples
+3. Started analysis of new data: MFCC and Movement Analysis for all samples (started with Codariocalyx, soon to be followed by Mimosa)
+4. Added lines of code to reliably calculate up-/down-time and rise-/fall-time for all samples
+5. Having an increased sample size, I added some sub analyses to the initial procedure: Trend of correlation coefficients & MFCCs
+6. Coded samples -> Happy/Sad, female/male -> Currently used for fitting regression model; soon to be used for trying some machine learning algorithms, eg classification
+7. Outlined the bigger picture: Making it 2 papers? If so, structure of each. Checked how current research efforts fit in & what should be done additionally.
 
 ##### Next Steps
 
-1. Alles schoene macht der Mai.
-2. Besser geht es nicht.
-3. Coole Sache, was wir da machen.
+1. Continue analysis of new data
+2. Detailed research model & plan
+3. Find best way to integrate MFCC analysis into plan
+4. Regression with controls
 
 #### Status Quo: Sebastian's work [10 min]
 
@@ -68,6 +73,14 @@ Hereafter, we list ideas to improve the tracking of the carnviore plants, if we 
 - Note down contingency variables like: weather, location, time of the day
 - Place a ruler next to plant
 - What kind of camera did Peter use? Is depth measuring possible with it?
+
+Possible control variables we've thought of:
+- Temperature
+- Light: Duration, spectral distribution/ energy
+- Soil minerals & nutrients
+- Soil moisture
+- CO2 and oxygen levels
+- Air: humidity
 
 ### 'Strategic' Assessment [10 min]
 
