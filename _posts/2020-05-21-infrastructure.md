@@ -15,7 +15,7 @@ As of today, the basic infrastructure is live and is framed so that it runs remo
 
 To try it yourself, please use the following link: [Tracking Plants Colab](https://github.com/plantions/video-edge-extractor/blob/master/20200521_Tracking_Plants_Colab_Refactored1.ipynb). You simply have to upload any video. The steps for that are quite simple. 
 
-### Overview over the tool and User Guidelines
+### Overview on the Notebook's Structure
 
 In general, the notebook works asks you to connect to a computing engine via Google Colab (this is free), and then:
 
@@ -26,7 +26,7 @@ In general, the notebook works asks you to connect to a computing engine via Goo
 
 ![Notebook](https://i.imgur.com/kJ8Joct.png)
 
-### Initial test runs
+### Initial Test Runs
 
 With the following parameters: __MASK_THRESH = 40__ & __CONTOUR_AREA = 200__ the following four moving leaves were identified in a 20 second test sample: 
 ![Identified Leafs](https://i.imgur.com/jdQEI11.png)
@@ -37,20 +37,20 @@ The Jupyter notebook is designed so that relevant hyperparameters are cumulated 
 
 ## Next Steps 
 
-### From test files to long videos
+### From Test Files to Comprehensive Dataset
 
 Use the new videos recently created by Prof. Gloor, and benefit from the computing power of your Google Colaboratory Jupyter notebook.
 
-### Get x, y - Values for data analysis
+### Get X, Y-Values for further Plant Analysis
 
 Take the values of each individual moving leaf and plot on a graph with x-Axis as deviations in height, and y-Axis as a temporal (based on frames) identifier. 
 
-### Hyper-Parameter Test Automatization
+### Hyper-Parameter Cross-Tests
 
 - Make sliders to set parameters.
 - Set up cross-validation tables.
 
-### Correlate with underlying audio files identify responses
+### Correlate with Underlying Audio Files to Identify Leaf Reactions
 
 - Extract the MFCC of the accompanying audio sounds to start correlation analysis.
 - Borrow from the excellent work of Josephine.
