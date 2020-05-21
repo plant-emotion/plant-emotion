@@ -9,6 +9,8 @@ categories: project
 
 Please find my basic training infrastructure that allows us to track the motion of plants via machine learning algorithms.
 
+![Identified Leafs](https://i.imgur.com/jdQEI11.png)
+
 ### Hosted on Google Colab
 
 As of today, the basic infrastructure is live and is framed so that it runs remotely on a high-end computer via Google Colaboratory. This is particularly helpful as my mini Macbook Air does not have sufficient computing power to process large datasets in HQ.
