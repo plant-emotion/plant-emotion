@@ -15,7 +15,7 @@ As of today, the basic infrastructure is live and is framed so that it runs remo
 
 To try it yourself, please use the following link: [Tracking Plants Colab](https://github.com/plantions/video-edge-extractor/blob/master/20200521_Tracking_Plants_Colab_Refactored1.ipynb). You simply have to upload any video. The steps for that are quite simple. 
 
-### Overviev over the tool and User Guidelines
+### Overview over the tool and User Guidelines
 
 In general, the notebook works asks you to connect to a computing engine via Google Colab (this is free), and then:
 
@@ -33,7 +33,7 @@ With the following parameters: __MASK_THRESH = 40__ & __CONTOUR_AREA = 200__ the
 
 ### Tuning Hyperparameters
 
-The Jupyter notebook is designed so that relevant hyperparameters are cumulated and can be trained to fine-tune for the pecularities of leaf tracking for carnivore plants. ![Hyperparameters](https://i.imgur.com/uU0mCnt.png)
+The Jupyter notebook is designed so that relevant hyperparameters are cumulated and can be trained to fine-tune for the peculiarities of leaf tracking for carnivore plants. ![Hyperparameters](https://i.imgur.com/uU0mCnt.png)
 
 ## Next Steps 
 
@@ -53,4 +53,4 @@ Take the values of each individual moving leaf and plot on a graph with x-Axis a
 ### Correlate with underlying audio files identify responses
 
 - Extract the MFCC of the accompanying audio sounds to start correlation analysis.
-- Borrow from excellent work of Josephine.
+- Borrow from the excellent work of Josephine.
