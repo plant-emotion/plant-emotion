@@ -26,12 +26,14 @@ The Jupyter notebook is designed so that relevant hyperparameters are cumulated 
 
 ### Overviev over the tool and User Guidelines
 
-In general, the ![Notebook](https://i.imgur.com/kJ8Joct.png) works asks you to connect to a computing engine via Google Colab (this is free), and then:
+In general, the notebook works asks you to connect to a computing engine via Google Colab (this is free), and then:
 
 1. Run code formattings and the leaf class
 2. Choose/tune your parameters.
 3. Create a Video by the Kalman filter and the Meanshift algorithm.
 4. Convert the resulting MPEG file and watch your result directly in Google Colab.
+
+![Notebook](https://i.imgur.com/kJ8Joct.png)
 
 ## Next Steps 
 
