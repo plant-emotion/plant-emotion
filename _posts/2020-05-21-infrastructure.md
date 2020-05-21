@@ -9,8 +9,6 @@ categories: project
 
 Please find my basic training infrastructure that allows us to track the motion of plants via machine learning algorithms.
 
-[![Identifying Leaves](https://i.imgur.com/FK4dQqk.png)](https://youtu.be/xgAhZQMkE7U "Plant Movement Tracker")
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgAhZQMkE7U?start=2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Identifying Leaves](https://i.imgur.com/jdQEI11.png)
