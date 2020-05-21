@@ -13,16 +13,7 @@ As communicated, it was my goal to deliver a basic infrastructure by May 21, 202
 
 As of today, the basic infrastructure is live and is framed so that it runs remotely on a high-end computer via Google Colaboratory. This is particularly helpful as my mini Macbook Air does not have sufficient computing power to process large datasets in HQ.
 
-To try it yourself, please use the following link: [Tracking Plants Colab](https://github.com/plantions/video-edge-extractor/blob/master/20200521_Tracking_Plants_Colab_Refactored1.ipynb). You simply have to upload any video. The steps for that are quite simple:
-
-### Initial test runs
-
-With the following parameters: __MASK_THRESH = 40__ & __CONTOUR_AREA = 200__ the following four moving leaves were identified in a 20 second test sample: 
-![Identified Leafs](https://i.imgur.com/jdQEI11.png)
-
-### Tuning Hyperparameters
-
-The Jupyter notebook is designed so that relevant hyperparameters are cumulated and can be trained to fine-tune for the pecularities of leaf tracking for carnivore plants. ![Hyperparameters](https://i.imgur.com/uU0mCnt.png)
+To try it yourself, please use the following link: [Tracking Plants Colab](https://github.com/plantions/video-edge-extractor/blob/master/20200521_Tracking_Plants_Colab_Refactored1.ipynb). You simply have to upload any video. The steps for that are quite simple. 
 
 ### Overviev over the tool and User Guidelines
 
@@ -34,6 +25,15 @@ In general, the notebook works asks you to connect to a computing engine via Goo
 4. Convert the resulting MPEG file and watch your result directly in Google Colab.
 
 ![Notebook](https://i.imgur.com/kJ8Joct.png)
+
+### Initial test runs
+
+With the following parameters: __MASK_THRESH = 40__ & __CONTOUR_AREA = 200__ the following four moving leaves were identified in a 20 second test sample: 
+![Identified Leafs](https://i.imgur.com/jdQEI11.png)
+
+### Tuning Hyperparameters
+
+The Jupyter notebook is designed so that relevant hyperparameters are cumulated and can be trained to fine-tune for the pecularities of leaf tracking for carnivore plants. ![Hyperparameters](https://i.imgur.com/uU0mCnt.png)
 
 ## Next Steps 
 
