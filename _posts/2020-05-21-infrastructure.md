@@ -7,7 +7,7 @@ categories: project
 
 ## Tracking Plants - Basic Infrastructure
 
-As communicated, it was my goal to deliver a basic infrastructure by May 21, 2020, that would allow us to track the motion of plants via machine learning algorithms.
+Please find my basic training infrastructure that allows us to track the motion of plants via machine learning algorithms.
 
 ### Hosted on Google Colab
 
