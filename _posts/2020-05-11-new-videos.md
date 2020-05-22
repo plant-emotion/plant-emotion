@@ -12,7 +12,3 @@ This may proof useful as we are facing a huge amount of data now.
 He will also need to dive into theory and reading.
 
 Initial results of Sebastian were communicated for Thursday, May 21, 2020, EoD.
-
-<figure>
-  <img alt="Plant + work" src=" https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80 " />
-</figure>
