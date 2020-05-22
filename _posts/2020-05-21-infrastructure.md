@@ -10,7 +10,7 @@ categories: project
 Please find my basic training infrastructure that allows us to track the motion of plants via machine learning algorithms.
 
 
-<iframe width="80%" src="https://www.youtube.com/embed/xgAhZQMkE7U?start=2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/xgAhZQMkE7U?start=2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Hosted on Google Colab
 
