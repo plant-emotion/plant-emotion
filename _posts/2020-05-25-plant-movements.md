@@ -17,7 +17,7 @@ Try it: [Tracking Plants Colab](https://github.com/plantions/video-edge-extracto
 
 ### Tuning Hyperparameters
 
-The Jupyter notebook is designed so that relevant hyperparameters are cumulated and can be trained to fine-tune for the peculiarities of leaf tracking for carnivore plants. ![Hyperparameters](https://i.imgur.com/uU0mCnt.png)
+The Jupyter notebook is designed so that hyper parameters are cumulated and can be trained to fine-tune for the peculiarities of leaf tracking for carnivore plants. ![Hyperparameters](https://i.imgur.com/uU0mCnt.png)
 
 ### From Test Files to Comprehensive Dataset
 
@@ -28,9 +28,10 @@ Use the new videos recently created by Prof. Gloor, and benefit from the computi
 ### Get X, Y-Values for further Plant Analysis
 These values are saved in the list leafs = [].
 Each object is a Leaf object with: id, hsv_frame, (x, y, w, h))
-
-- ID: LeafID (or another moving object)
-- hsv_frame:
+- ID: LeafID, respectively another moving object.
+- hsv_frame (hue-saturation-value): HSV model uses a different triplet of channels. Hue is the color's tone, saturation is its intensity, and value represents its brightness.
+- x, y: Coordinates of the tracked movement.
+- w, h: Coordinates of box around tracked movement.
 
 ```python
 for c in contours:
@@ -43,14 +44,15 @@ for c in contours:
                 Leaf(id, hsv_frame,
                            (x, y, w, h)))
     id += 1
-```
+
+# Question to Paul: Leaf class, how to extract values from it? Just got leaf object identifiers on memory if I print it.
 
 ### Hyper-Parameter Cross-Tests
 
-- Make sliders to set parameters.
-- Set up cross-validation tables.
+- Make sliders to set parameters. (Done)
+- Set up cross-validation tables. (in progress)
 
-### Correlate with Underlying Audio Files to Identify Leaf Reactions
+### Correlate with Underlying Audio Files to Identify Leaf Reactions (tbd)
 
 - Extract the MFCC of the accompanying audio sounds to start correlation analysis.
 - Borrow from the excellent work of Josephine.
