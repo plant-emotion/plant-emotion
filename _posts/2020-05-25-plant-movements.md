@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leaf Identifier Infrastructure"
+title: "Plant Movement [Under Construction]"
 author: "Sebastian"
 categories: project
 ---
