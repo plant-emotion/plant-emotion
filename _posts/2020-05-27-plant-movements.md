@@ -39,7 +39,6 @@ These values are saved in the list leafs. (Done)
 ### Make it clean
 
 - Change file name
-- Call your sister
 - Change headline
 - Insert HyperPARAMETER Frames per Second and set by default to 60
 - write thoroug explanation
@@ -49,6 +48,11 @@ These values are saved in the list leafs. (Done)
 - Write down all the experiments
 - Go for extreme Values
 - Make nice interface on Google Colaboratory
+
+### Key Learnings
+- Pandas Data Manipulation: PivotTables, Padding, Indexing.
+- Keeping everything Flexible.
+- "Getting hands dirty" Interview with NLP Deep Learning Expert from Silicon Valley.
 
 ### Useful Sources:
 - [MFCCs explanation](https://towardsdatascience.com/how-i-understood-what-features-to-consider-while-training-audio-files-eedfb6e9002b) (only the beginning helped me).
