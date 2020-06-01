@@ -51,14 +51,14 @@ These values are saved in the list leafs. (Done)
 
 ### Key Learnings
 - Pandas Data Manipulation: PivotTables, Padding, Indexing.
-- Keeping everything Flexible.
+- Like in the bank: Make compromises.
 - "Getting hands dirty" Interview with NLP Deep Learning Expert from Silicon Valley.
 
 ### Useful Sources:
 - [MFCCs explanation](https://towardsdatascience.com/how-i-understood-what-features-to-consider-while-training-audio-files-eedfb6e9002b) (only the beginning helped me).
 - [Output of MFCCs](# https://stackoverflow.com/questions/52232839/understanding-the-output-of-mfcc) (useful to calculate frame length).
 - [Meaning of Parameters of FFMPEG](https://stackoverflow.com/questions/9913032/how-can-i-extract-audio-from-video-with-ffmpeg)
-
+- [Visualizing Correlations](https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec)
 ### Next steps:
 
 - Cutting frames for two Plants
