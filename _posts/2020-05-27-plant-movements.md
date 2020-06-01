@@ -32,19 +32,29 @@ These values are saved in the list leafs. (Done)
 - Set up cross-validation tables. (in progress)
 
 ### Correlate with Underlying Audio Files to Identify Leaf Reactions (tbd)
-- Extract the MFCC of the accompanying audio sounds together with sounds to start correlation analysis.
+- Extract the MFCC of the accompanying audio sounds together.
+- Continue on Harmonizing of Frames from Video with MFCC from Audio on same timescale.
+- Make sure you expand the PandasDataFrame based on the MFCC and extend the video frames.
 
 ### Make it clean
+
+- Change file name
+- Call your sister
+- Change headline
+- Insert HyperPARAMETER Frames per Second and set by default to 60
+- write thoroug explanation
+- Write down process > make slides & post them into JPR notebook!?
 - Refactor code
-- Make nice interface on Google Colaboratory
 - Try different values
 - Write down all the experiments
 - Go for extreme Values
-- Consider cutting videos due to frames for different Plants
-- Make annotations which plant has which sound in the background
+- Make nice interface on Google Colaboratory
 
+### Useful Sources:
+- [MFCCs explanation](https://towardsdatascience.com/how-i-understood-what-features-to-consider-while-training-audio-files-eedfb6e9002b) (only the beginning helped me).
+- [Output of MFCCs](# https://stackoverflow.com/questions/52232839/understanding-the-output-of-mfcc) (useful to calculate frame length).
+- [Meaning of Parameters of FFMPEG](https://stackoverflow.com/questions/9913032/how-can-i-extract-audio-from-video-with-ffmpeg)
 
-### Useful articles:
-[MFCCs explanation](https://towardsdatascience.com/how-i-understood-what-features-to-consider-while-training-audio-files-eedfb6e9002b) (only the beginning helped me).
+### Next steps:
 
-[Output of MFCCs](# https://stackoverflow.com/questions/52232839/understanding-the-output-of-mfcc) (useful to calculate frame length).
+- Cutting frames for two Plants
