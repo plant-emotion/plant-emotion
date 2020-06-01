@@ -25,10 +25,10 @@ This is what the Hyperparameters do:
 - Get X, Y-Values for further Plant Analysis: These values are saved in the list leafs. (Done)
 - Hyper-Parameter Cross-Tests: Make sliders to set parameters. (Done) & __Set up cross-validation tables. (in progress)__
 - Correlate with Underlying Audio Files to Identify Leaf Reactions (Done)
-- Clean up. (__Open__)
 
 ### Make it clean
 
+- __Try with 60s video from the middle like second 180 - 240__
 - Change file name
 - Change headline
 - Insert HyperPARAMETER Frames per Second and set by default to 60
