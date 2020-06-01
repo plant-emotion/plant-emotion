@@ -24,7 +24,7 @@ The Jupyter notebook is designed so that hyper parameters are cumulated and can 
 Use the new videos recently created by Prof. Gloor, and benefit from the computing power of your Google Colaboratory Jupyter notebook. (Done)
 
 ### Get X, Y-Values for further Plant Analysis
-These values are saved in the list leafs.(Done)
+These values are saved in the list leafs. (Done)
 
 ### Hyper-Parameter Cross-Tests
 
@@ -36,8 +36,15 @@ These values are saved in the list leafs.(Done)
 
 ### Make it clean
 - Refactor code
-- Try different settings
+- Make nice interface on Google Colaboratory
+- Try different values
 - Write down all the experiments
 - Go for extreme Values
 - Consider cutting videos due to frames for different Plants
 - Make annotations which plant has which sound in the background
+
+
+### Useful articles:
+[MFCCs explanation](https://towardsdatascience.com/how-i-understood-what-features-to-consider-while-training-audio-files-eedfb6e9002b) (only the beginning helped me).
+
+[Output of MFCCs](# https://stackoverflow.com/questions/52232839/understanding-the-output-of-mfcc) (useful to calculate frame length).
