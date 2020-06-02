@@ -19,26 +19,34 @@ categories: project
 
 ##### Status Quo
 **A) Continuing analysis**
+
 -> Bigger sample size allowed for grouping:
+   
    Option 1. Happy vs Sad,
+   
    Option 2. Male vs Female
-Grouped as above, the following analyses were conducted :
+   
+Grouped as above, the following analyses were conducted:
+
 - Correlation of Movement and MFCCs
 - Lagged Correlation
 - T-Test
 - Regression
 
 **B) Restructuring set up/ Renewing infrastructure**
+
 - Combining individual analysis files and functions to a single MatLab script
     - To reduce redundancy and enable reusability, I initially wrote individual functions that can be used in different steps
       of the analysis
     - Wanting to share the code, I decided to consolidate everything into a single Jupyter notebook and add clear annotations
       to improve the reader's understanding   
-- Converting MatLab script to Python
-- Advantages:
-  a) Optimized collaboration with Sebastian (easier exchange of code snippets)
-  b) Easier code sharing via GitHub
-  c) Multitude of Python Machine Learning libraries offers endless possibilities for integrating ML into the current project
+- Converting MatLab script to Python. Advantages:
+
+   a) Optimized collaboration with Sebastian (easier exchange of code snippets)
+
+   b) Easier code sharing via GitHub
+
+   c) Multitude of Python Machine Learning libraries offers endless possibilities for integrating ML into the current project
 
 ##### Next Steps
 
