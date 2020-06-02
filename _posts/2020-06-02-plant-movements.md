@@ -14,23 +14,24 @@ Status Quo:
 ### Hosted in a Jupyter notebook on Google Colab
 Try it: [Tracking Plants Colab](https://github.com/plantions/video-edge-extractor/).
 
-### Fine-Tuning Hyperparameters
-The Jupyter notebook is designed so that hyper parameters are cumulated and can be trained to fine-tune for the peculiarities of leaf tracking for carnivore plants. ![Hyperparameters](https://i.imgur.com/uU0mCnt.png)
-
-Hyperparameter findings:
+### Hyperparameter Testing
 
 On June 2, 2020, 10AM, I ran 10 tests with various deviating input parameters to uncover the functionality of the different parameters.
 
-#### Favorite
+##### Favorite
 
-#### Best
+![Imgur](https://i.imgur.com/fe5HRlD.png)
 
-Results:
-1. Standard Values: Found 2 ROI (11, 18).
+##### Best
+
+![Imgur](https://i.imgur.com/udilLsM.png)
+
+__Results__:
+1. Standard Values: Found 2 ROI.
 2. High Erode (6 px): One ROI only in the middle of nowhere.
 3. High Dilate: Found 2 ROI close together around one stem.
-4. Medium Mask_Thresh of 127 (0 to 255): Finds leaves more accurately. Found two leaves. __Will focus on this__ value of __127__.
-5. Low Contour_Area (50): Four points of interst. __Will keep Contour of 50__.
+4. Medium Mask_Thresh of 127 (0 to 255): Finds leaves more accurately. Found two leaves.
+5. Low Contour_Area (50): Four points of interest. __Will keep Contour of 50__.
 6. High Mask_Thresh (180): Four ROI, really stable.
 7. High Contour_Area (200) & High Dilate: Only two ROI. Consider going back to 50 (see round 5).
 8. High Contour_Area (200) & Medium Dilate (4,4): Found three ROI. Quite disparate over the plant (2 left, 1 right).
@@ -38,7 +39,9 @@ Results:
 10. Low Contour (50), high dilate (10), low erode (1): Roughly one 1000 points.
 
 __Conclusion__:
--
+- Four identified values were best but they were never at leaf tips.
+- Very detailed export possible with experiment 10. Follow up here.
+- Content with results. More testing needed.
 
 ### Last sprint tasks
 - Compile with comprehensive datasets. (Done)
@@ -47,8 +50,6 @@ __Conclusion__:
 - Correlate with Underlying Audio Files to Identify Leaf Reactions (Done)
 
 ### Make it clean
-
-- Change file name
 - write thorough explanation
 - Refactor code
 - Upload final youtube video
