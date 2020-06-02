@@ -18,20 +18,42 @@ categories: project
 #### Status Quo: Josephine's work [20 min]
 
 ##### Status Quo
-1. Finished Mimosa x MFCC Analysis with old data
-2. Wrote script to split video into samples
-3. Started analysis of new data: MFCC and Movement Analysis for all samples (started with Codariocalyx, soon to be followed by Mimosa)
-4. Added lines of code to reliably calculate up-/down-time and rise-/fall-time for all samples
-5. Having an increased sample size, I added some sub analyses to the initial procedure: Trend of correlation coefficients & MFCCs
-6. Coded samples -> Happy/Sad, female/male -> Currently used for fitting regression model; soon to be used for trying some machine learning algorithms, eg classification
-7. Outlined the bigger picture: Making it 2 papers? If so, structure of each. Checked how current research efforts fit in & what should be done additionally.
+**A) Continuing analysis**
+
+-> Bigger sample size allowed for grouping:
+   
+   Option 1. Happy vs Sad,
+   
+   Option 2. Male vs Female
+   
+Grouped as above, the following analyses were conducted:
+
+- Correlation of Movement and MFCCs
+- Lagged Correlation
+- T-Test
+- Regression
+
+
+**B) Restructuring set up/ Renewing infrastructure**
+
+- Combining individual analysis files and functions to a single MatLab script
+    - To reduce redundancy and enable reusability, I initially wrote individual functions that can be used in different steps
+      of the analysis
+    - Wanting to share the code, I decided to consolidate everything into a single Jupyter notebook and add clear annotations
+      to improve the reader's understanding   
+- Converting MatLab script to Python. Advantages:
+
+a) Optimized collaboration with Sebastian (easier exchange of code snippets)
+
+b) Easier code sharing via GitHub
+
+c) Multitude of Python Machine Learning libraries offers endless possibilities for integrating ML into the current project
 
 ##### Next Steps
 
-1. Continue analysis of new data
-2. Detailed research model & plan
-3. Find best way to integrate MFCC analysis into plan
-4. Regression with controls
+1. Continue converting code to Python
+2. Finish statistical analysis
+3. Take time for documentation (also retrospective)
 
 #### Status Quo: Sebastian's work [20 min]
 
