@@ -21,11 +21,11 @@ categories: project
 **A) Continuing analysis**
 
 -> Bigger sample size allowed for grouping:
-   
+
    Option 1. Happy vs Sad,
-   
+
    Option 2. Male vs Female
-   
+
 Grouped as above, the following analyses were conducted:
 
 - Correlation of Movement and MFCCs
@@ -62,7 +62,7 @@ c) Multitude of Python Machine Learning libraries offers endless possibilities f
 Please read: (Correlation of Moving Objects with MFCC Sound Features)[https://plantions.github.io/project/2020/05/27/plant-movements.html]
 
 ### Organizational Matters [5 min]
-- Embassies offer inteview appointments again.
+- Embassies offer interview appointments again.
 
 ### Next Steps [10 min]
 - Work remotely. ;)
