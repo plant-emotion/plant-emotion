@@ -40,7 +40,7 @@ __Conclusion__:
 - Correlate with Underlying Audio Files to Identify Leaf Reactions (Done)
 
 ### Make it clean
-- write thorough explanation
+- Write thorough explanation
 - Refactor code
 - Upload final youtube video
 - Make Github folder structure nice
@@ -48,8 +48,8 @@ __Conclusion__:
 
 ### Key Learnings
 - Theoretical shortcomings of coding fundamentals ('object oriented python') & too little testing ('play more!').
-- Insights video codecs & video processing (Running video in Jupyter/on Colaboratory).
-- NumPy/Pandas data manipulation: e.g., pivotTables & padding, merging ('getting hands dirty').
+- Insights video codecs & video processing (Playing video in Jupyter/on Colaboratory).
+- NumPy/Pandas output & data manipulation: e.g., pivotTables & padding, merging ('getting hands dirty').
 
 ### Next Steps
 
