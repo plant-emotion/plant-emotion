@@ -9,10 +9,10 @@ categories: project
 
 Status Quo:
 
-<iframe width="100%" height="400" src="xx_long video hosted on youtube " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://youtu.be/O9Tr3f6X8tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Hosted in a Jupyter notebook on Google Colab
-Try it: [Final Colab Link](https://github.com/plantions/video-edge-extractor/).
+Try it: [Github with Colab](https://github.com/plantions/video-edge-extractor/).
 
 ### Hyperparameter Testing
 
@@ -43,7 +43,6 @@ __Conclusion__:
 - Write thorough explanation
 - Refactor code
 - Upload final youtube video
-- Make Github folder structure nice
 - Make nice interface on Google Colaboratory
 
 ### Key Learnings
