@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plant Movement [Under Construction]"
+title: "Correlation of Moving Objects with MFCC Sound Features"
 author: "Sebastian"
 categories: project
 ---
