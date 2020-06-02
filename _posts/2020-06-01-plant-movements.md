@@ -4,62 +4,47 @@ title: "Plant Movement [Under Construction]"
 author: "Sebastian"
 categories: project
 ---
-
 ## Correlation of Moving Objects with MFCC Sound Features
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/O9Tr3f6X8tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Status Quo:
-
-<iframe width="100%" height="400" src="https://youtu.be/O9Tr3f6X8tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Hosted in a Jupyter notebook on Google Colab
+### Hosted on Google Colaboratory; Open with GitHub.
 Try it: [Github with Colab](https://github.com/plantions/video-edge-extractor/).
 
 ### Hyperparameter Testing
-
 On June 2, 2020, 10AM, I ran 10 tests with various deviating input parameters to uncover the functionality of the different parameters.
 
-Let us take a look.
-
 ##### Favorite
-
 ![Imgur](https://i.imgur.com/fe5HRlD.png)
 
 ##### Best
-
 ![Imgur](https://i.imgur.com/udilLsM.png)
 
-__Conclusion__:
+### Conclusion
 - Four identified values were best but they were never at leaf tips.
 - Very detailed export possible with experiment 10. Follow up here.
 - Content with results. More testing needed.
 
-### Last sprint tasks
+### Tasks from Sprint 2
 - Compile with comprehensive datasets. (Done)
 - Get X, Y-Values for further Plant Analysis: These values are saved in the list leafs. (Done)
 - Hyper-Parameter Cross-Tests: Make sliders to set parameters. (Done)
-- Correlate with Underlying Audio Files to Identify Leaf Reactions (Done)
+- Correlate with Underlying Audio Files to Identify Leaf Reactions. (Done)
 
-### Make it clean
-- Write thorough explanation
-- Refactor code
-- Upload final youtube video
-- Make nice interface on Google Colaboratory
-
-### Key Learnings
-- Theoretical shortcomings of coding fundamentals ('object oriented python') & too little testing ('play more!').
+### Retro Sprint 2
+- Theoretical shortcomings of coding fundamentals ('object oriented python') & too little trials ('play more!').
 - Insights video codecs & video processing ('Playing video in Jupyter/on Colaboratory').
-- NumPy/Pandas output & data manipulation: e.g., pivotTables & padding, merging ('getting hands dirty').
+- NumPy/Pandas output & data manipulation: e.g., pivotTables & padding, merging ('Getting hands dirty').
 
 ### Next Steps
 
-Project-related
-- Test more & get outputs fixed.
-- Cutting Frames into videos (accounting for the two plants).
+Project-related:
+- Test more (get best hyper-parameters).
+- Cutting frames from video to account for the two plants.
 - Cut video based on sound patterns into sequences to test for interactions (gender,  emotional expression).
 
-Beyond
+Beyond:
 - Progress on Fluent Python (fundamentals in Python book) and follow [recommendations](https://seduerr91.github.io/blog/experts) from expert interviews.
-- Overcome technical deficiencies (make use of 26gb RAM, parallelize, process on GPU, Make progress of video processing visible).
+- Overcome slow processing (make use of 26GB RAM, process on GPU, make progress of video processing visible).
 - Try with different videos from Youtube (not carnivore plants).
 
 ### Helpful Sources/Explanations
