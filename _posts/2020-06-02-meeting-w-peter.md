@@ -42,11 +42,11 @@ Grouped as above, the following analyses were conducted:
       to improve the reader's understanding   
 - Converting MatLab script to Python. Advantages:
 
-   a) Optimized collaboration with Sebastian (easier exchange of code snippets)
+a) Optimized collaboration with Sebastian (easier exchange of code snippets)
 
-   b) Easier code sharing via GitHub
+b) Easier code sharing via GitHub
 
-   c) Multitude of Python Machine Learning libraries offers endless possibilities for integrating ML into the current project
+c) Multitude of Python Machine Learning libraries offers endless possibilities for integrating ML into the current project
 
 ##### Next Steps
 
