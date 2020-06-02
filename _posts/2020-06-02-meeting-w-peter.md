@@ -59,7 +59,7 @@ c) Multitude of Python Machine Learning libraries offers endless possibilities f
 
 ##### Status Quo & Next Steps
 
-Please read: (Correlation of Moving Objects with MFCC Sound Features)[https://plantions.github.io/project/2020/05/27/plant-movements.html]
+Please read: [Correlation of Moving Objects with MFCC Sound Features](https://plantions.github.io/project/2020/06/01/plant-movements.html)
 
 ### Organizational Matters [5 min]
 - Embassies offer interview appointments again.
