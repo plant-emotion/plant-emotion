@@ -12,11 +12,13 @@ Status Quo:
 <iframe width="100%" height="400" src="xx_long video hosted on youtube " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Hosted in a Jupyter notebook on Google Colab
-Try it: [Tracking Plants Colab](https://github.com/plantions/video-edge-extractor/).
+Try it: [Final Colab Link](https://github.com/plantions/video-edge-extractor/).
 
 ### Hyperparameter Testing
 
 On June 2, 2020, 10AM, I ran 10 tests with various deviating input parameters to uncover the functionality of the different parameters.
+
+Let us take a look.
 
 ##### Favorite
 
@@ -25,18 +27,6 @@ On June 2, 2020, 10AM, I ran 10 tests with various deviating input parameters to
 ##### Best
 
 ![Imgur](https://i.imgur.com/udilLsM.png)
-
-__Results__:
-1. Standard Values: Found 2 ROI.
-2. High Erode (6 px): One ROI only in the middle of nowhere.
-3. High Dilate: Found 2 ROI close together around one stem.
-4. Medium Mask_Thresh of 127 (0 to 255): Finds leaves more accurately. Found two leaves.
-5. Low Contour_Area (50): Four points of interest. __Will keep Contour of 50__.
-6. High Mask_Thresh (180): Four ROI, really stable.
-7. High Contour_Area (200) & High Dilate: Only two ROI. Consider going back to 50 (see round 5).
-8. High Contour_Area (200) & Medium Dilate (4,4): Found three ROI. Quite disparate over the plant (2 left, 1 right).
-9. Low Contour_Area (50) & Medium Dilate (4,4): Only two very tiny ROIs.
-10. Low Contour (50), high dilate (10), low erode (1): Roughly one 1000 points.
 
 __Conclusion__:
 - Four identified values were best but they were never at leaf tips.
