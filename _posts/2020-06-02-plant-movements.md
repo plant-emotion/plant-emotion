@@ -48,7 +48,7 @@ __Conclusion__:
 
 ### Key Learnings
 - Theoretical shortcomings of coding fundamentals ('object oriented python') & too little testing ('play more!').
-- Insights video codecs & video processing (Playing video in Jupyter/on Colaboratory).
+- Insights video codecs & video processing ('Playing video in Jupyter/on Colaboratory').
 - NumPy/Pandas output & data manipulation: e.g., pivotTables & padding, merging ('getting hands dirty').
 
 ### Next Steps
