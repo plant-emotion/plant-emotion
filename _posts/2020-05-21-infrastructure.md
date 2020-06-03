@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leaf Identifier Infrastructure"
+title: "[SD] Sprint 1 - Results"
 author: "Sebastian"
 categories: project
 ---
