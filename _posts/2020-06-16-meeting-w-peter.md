@@ -23,14 +23,14 @@ categories: project
 
 #### Status Quo: Sebastian's work [20 min]
 
-##### Status Quo & Next Steps
-
 Please read: [Sprint 3 Update](https://plantions.github.io/project/2020/06/03/sprint-3.html)
 
 ### Organizational Matters [5 min]
 
-- Sebastian contacted Rosy. Infos:
+- Sebastian contacted Rosy. Infos: No updates until Vice Provost for Research approves visits again, so wait.
+- Extended Mail from last Friday: Wait for a response. Maybe in June?
+- Brown Bag in July 2020.
 
 ### Next Steps [10 min]
 
-### Hi Peter, thank you!
+### Thank you Peter for your time!
