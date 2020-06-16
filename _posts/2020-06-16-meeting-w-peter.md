@@ -33,4 +33,7 @@ Please read: [Sprint 3 Update](https://plantions.github.io/project/2020/06/03/sp
 
 ### Next Steps [10 min]
 
+- Next Appointment: June 30, 2020, at 6pm Austria/Swiss time.
+- Get Buenyamin on board.
+
 ### Thank you Peter for your time!
