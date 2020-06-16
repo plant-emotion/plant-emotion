@@ -19,8 +19,12 @@ categories: project
 
 ##### Status Quo
 
+- Completed analysis with increased sample size for Codariocalyx
+- In the process of rewriting code in Python (recently added sample classification, movement analysis and MFCC analysis)
+
 ##### Next Steps
 
+- Focus on finishing code conversion (next steps: implement t-tests, lagged correlation and regression analysis)
 #### Status Quo: Sebastian's work [20 min]
 
 Please read: [Sprint 3 Update](https://plantions.github.io/project/2020/06/03/sprint-3.html)
@@ -30,6 +34,7 @@ Please read: [Sprint 3 Update](https://plantions.github.io/project/2020/06/03/sp
 - Sebastian contacted Rosy. Infos: No updates until Vice Provost for Research approves visits again, so wait.
 - Extended Mail from last Friday: Wait for a response. Maybe in June?
 - Brown Bag in July 2020.
+- Josephine takes exams in July. This will cause the analysis progress to slow down. 
 
 ### Next Steps [10 min]
 
