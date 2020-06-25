@@ -19,7 +19,7 @@ categories: project
 4. Click play buttons for each cells, in the presented order. / Drücken Sie die Play-Taste für die Zellen in der gegebenen Reihenfolge (Shortcut/Kurzbefehl: 'Shift + Enter').
 ![Play](https://i.imgur.com/QIzNXK6.png)
 
-5. Try different videos and parameters. Probieren Sie verschiedene Videos und Parameter aus.
+5. Try different videos and parameters. / Probieren Sie verschiedene Videos und Parameter aus.
 ![Videos](https://i.imgur.com/0mH9V1w.png)
 
 __Advantages of this version__
