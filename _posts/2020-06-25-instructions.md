@@ -22,7 +22,7 @@ categories: project
 5. Try different videos and parameters. / Probieren Sie verschiedene Videos und Parameter aus.
 ![Videos](https://i.imgur.com/0mH9V1w.png)
 
-__Advantages of this version__
+__Advantages of this version:__
 - All movies are automatically downloaded internally through Dropbox API (no local broadband needed).
 - Different movies can be conveniently selected via Dropdown and Parameters can be set via Sliders.
 - Version runs on my infrastructure (with 26gb RAM) because it is in my Drive.
