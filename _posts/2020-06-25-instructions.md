@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "Instructions to run the Object Tracker"
+title: "Instructions to Run the Object Tracker"
 author: "Sebastian"
 categories: project
 ---
-
-## Object Tracker Instructions
-
 1. Please open the / Bitte öffnen Sie den [Object Tracker](https://colab.research.google.com/drive/1axv_s5rFQiZu6OOq0STLNWxSjwqaCIql#scrollTo=WbGYdt_cfZID).
 ![Logo](https://i.imgur.com/Ry6GHuP.png)
 
