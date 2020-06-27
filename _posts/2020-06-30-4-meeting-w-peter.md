@@ -37,7 +37,7 @@ tbd
 
 1. Results of [Sprint 4 Results](https://plantions.github.io/project/2020/06/27/sprint-4.html).
 2. Manual for [Object Tracker](https://plantions.github.io/project/2020/06/25/instructions.html).
-3. Next steps [Alternative Object Tracking Modelling](https://plantions.github.io/project/2020/06/27/alternative-modeling.html).
+3. Next steps [Alternative Object Tracking Modelling based on Papers provided by Peter](https://plantions.github.io/project/2020/06/27/alternative-modeling.html).
 4. Bildungskarenz Roadmap Scenarios:
 
 ![Spatial Roadmap](https://i.imgur.com/bM8qsI6.png)
