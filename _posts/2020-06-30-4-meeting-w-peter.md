@@ -15,7 +15,7 @@ categories: project
 
 ### Organizational Matters [5 min]
 
-- Executive order by President Trump: MIT International students and scholars in the following J-1 Exchange Visitor categories (and accompanying J-2 family members) are NOT affected by the Proclamation, and their entry to the U.S. is NOT suspended: Student, Research Scholar, ….
+- Executive order by President Trump: MIT International students and scholars in the following J-1 Exchange Visitor categories (and accompanying J-2 family members) are NOT affected by the Proclamation, and their entry to the U.S. is NOT suspended: Student, Research Scholar, etc.
 - Update Rafael Reif about Fall Term: We may need to start a week early (around September 1), end any in-person instruction before Thanksgiving, and finish the term remotely.
 
 ### Status Quo
@@ -34,9 +34,9 @@ tbd
 
 #### Sebastian: Status Quo [20 min]
 
-1. Results of [Sprint 4 Results](https://plantions.github.io/project/2020/06/03/sprint-3.html).
+1. Results of [Sprint 4 Results](https://plantions.github.io/project/2020/06/27/sprint-4.html).
 2. Manual for [Object Tracker](https://plantions.github.io/project/2020/06/25/instructions.html).
-3. Next steps [Alternative Object Tracking Modeling](https://plantions.github.io/project/2020/06/27/alternative-modeling.html).
+3. Next steps [Alternative Object Tracking Modelling](https://plantions.github.io/project/2020/06/27/alternative-modeling.html).
 4. Bildungskarenz Roadmap Scenarios:
 
 ![Spatial Roadmap](https://i.imgur.com/bM8qsI6.png)

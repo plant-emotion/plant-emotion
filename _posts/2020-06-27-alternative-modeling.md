@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Alternative Modeling Ideas by Peter"
+title: "Alternative Modelling Ideas by Peter"
 author: "Sebastian"
 categories: project
 ---
 
-On June 19, Peter Gloor provided us with alternative modeling ideas. The ideas are briefly summarized herafter. Following the question: Perhaps it is worthwhile to model the "step", "wing beat", or "swimming movement" of the Codariocalyx or Mimosa?
+On June 19, Peter Gloor provided us with alternative modelling ideas. The ideas are briefly summarized hereafter. Following the question: Perhaps it is worthwhile to model the "step", "wing beat", or "swimming movement" of the Codariocalyx or Mimosa?
 
 ##  Reserach Papers
 
@@ -29,29 +29,18 @@ On June 19, Peter Gloor provided us with alternative modeling ideas. The ideas a
 
 ![fish2](https://i.imgur.com/IHNXYtY.png)
 
--
--
--
--
-
-
 ### [Upwash exploitation and downwash avoidance by flap phasing in ibis formation flight](https://www.nature.com/articles/nature12939)
 
 ![Birds](https://i.imgur.com/kCWkYzc.png)
-
--
--
--
--
 
 ###  [Identity Recognition Algorithm Using Improved Gabor Feature Selection of Gait Energy Image](https://ui.adsabs.harvard.edu/abs/2017JPhCS.787a2015C/abstract)
 
 ![Gait](https://i.imgur.com/D6k22kL.png)
 
 - Gait recognition is identifying individuals by the way they walk. - - Approach of authors is: silhouette pre-processing, binarization morph, GEI computation, feature extraction, feature reduction, feature matching.
-- Feature extraction of GAI using Gabor filters: its  is a filtering operation of the given GEI with the gabor filter of size u and orientation v.
+- Feature extraction of GAI using Gabor filters: its  is a filtering operation of the given GEI with the Gabor filter of size u and orientation v.
 - Gait feature dimension reduction based on Kernel Fisher Analysis: Idea of kernel Fisher discriminant is to yield a nonlinear discriminant analysis in the higher space as F.
-- Nearest neighbor classifier based on whitened cosine similarity measure: GEIs are normalized and aligned so to be clustered by distance measures.
+- Nearest neighbour classifier based on whitened cosine similarity measure: GEIs are normalized and aligned so to be clustered by distance measures.
 - Recognition scoring is based on ROC and CMC measures.
 
 ###  Additional Videos
