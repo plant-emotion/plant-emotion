@@ -36,13 +36,13 @@ tbd
 
 1. Results of [Sprint 4 Results](https://plantions.github.io/project/2020/06/03/sprint-3.html).
 2. Manual for [Object Tracker](https://plantions.github.io/project/2020/06/25/instructions.html).
-3. Next steps [Alternative Object Tracking Modeling](https://plantions.github.io/project/2020/06/27/alternative-modeling.html)
+3. Next steps [Alternative Object Tracking Modeling](https://plantions.github.io/project/2020/06/27/alternative-modeling.html).
 4. Bildungskarenz Roadmap Scenarios:
 
-![Spatial Roadmap](https://i.imgur.com/gVRpqVO.png)
+![Spatial Roadmap](https://i.imgur.com/bM8qsI6.png)
 
 ### Next Steps [10 min]
 
-- Next Appointment: Tuesday, July 14, 2020, at 6pm Austria/Swiss time.
+- Next Appointment: Tuesday, July 14, 2020, at 6pm Austrian/Swiss time.
 
 ### Thank you Peter for your time!
