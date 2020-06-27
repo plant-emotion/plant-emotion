@@ -34,9 +34,10 @@ tbd
 
 #### Sebastian: Status Quo [20 min]
 
-1. Results of Sprint 4: [Sprint 4 Update](https://plantions.github.io/project/2020/06/03/sprint-3.html)
-2. Outlook Sprint 5: []
-3. Bildungskarenz Roadmap Scenarios:
+1. Results of [Sprint 4 Results](https://plantions.github.io/project/2020/06/03/sprint-3.html).
+2. Manual for [Object Tracker](https://plantions.github.io/project/2020/06/25/instructions.html).
+3. Next steps [Alternative Object Tracking Modeling](https://plantions.github.io/project/2020/06/27/alternative-modeling.html)
+4. Bildungskarenz Roadmap Scenarios:
 
 ![Spatial Roadmap](https://i.imgur.com/gVRpqVO.png)
 
