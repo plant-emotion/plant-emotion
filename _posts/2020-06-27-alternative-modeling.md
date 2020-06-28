@@ -29,9 +29,38 @@ On June 19, Peter Gloor provided us with alternative modelling ideas. The ideas 
 
 ![fish2](https://i.imgur.com/IHNXYtY.png)
 
+- oberserving kinematics: we map the instantaneous acceleration (behavioral response) of a focal fish due to the influence of its neighbors; such complex biological reactions are interpreted as individual accelerations in response to fish neighbors’ positions and velocities
+- Analysis of two shoals of fish:
+    - compute the acceleration of one fish as a function of the position and velocity of its neighbor. 
+    - repulsive and attractive zones: When the neighboring fish is close to the focal fish, a repulsive force is exerted on the focal fish, pushing it away from its neighbor. When the neighboring fish is far away, an attractive force is exerted on the focal fish, pulling it toward its neighbor.
+    - Fish control their motion by modulating their speeds and by turning. To reflect this, the authors decompose the force into two components, the component along a fish’s direction of motion (speeding up and slowing down; the “speeding force”), and the component perpendicular to its direction of motion (the “turning force”).
+    - Turning & Speeding:  
+        - When the neighbor is far to the right of the focal fish, it turns right (positive values), toward it, and when the neighboring fish is far to the left of the focal fish, it turns left (negative values), toward it. 
+        - In a complementary manner to the speeding force, the turning force depends almost exclusively on how far the neighboring fish is to the side of the focal fish, and not on its distance in front of or behind it.
+- Analysis three shoals of fish: when both neighbors are far in front of, or far behind, the focal fish (2-4 body lengths), there is a strong tendency to speed up/slow down
+- Analysis of even bigger shoals of fish: We find that the predominant response of individuals in larger groups is to maintain spacing with near neighbors, decelerating or accelerating to avoid those very close behind or ahead, respectively, or to turn away from neighbors who approach very closely from either side.
+- Discussion:
+    - We find mean effective forces that depend on nontrivial combinations of the neighbor’s position and velocity, such as position-dependent restitution forces and preferred distances to neighbors that increase for faster-moving fish
+    - Research Gap: Our approach should also be applied to kinematic data from other animals and other species of fish to determine which aspects of the effective forces are universal signatures of biological groups
+    - Note: group heading is determined by frontal group members passing information to the rear (43, 44)
+    - Novelty: speed information flows bidirectionally, with fish responding to the speed changes of those swimming both ahead and behind
+    - The main feature of the residual three-body interaction is an excess restitution force that helps the focal fish remain in configurations where it is between its two neighbors
+
+- [Tracking Method](http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1107583108/-/DCSupplemental/pnas.1107583108_SI.pdf?targetid=STXT): data extraction is performed using the OpenCV library. Because the fish appear darker than the surrounding area, the images are converted to gray scale and inverted. A background image is made by averaging a sufficiently large number of frames (until fish are no longer visible) and subtracted from each frame. The fish are then identified by thresholding with an empirically determined constant value. The contours of each fish are obtained by applying an edge-detection algorithm on the thresholded image and approximated by polygons
+
+
 ### [Upwash exploitation and downwash avoidance by flap phasing in ibis formation flight](https://www.nature.com/articles/nature12939)
 
 ![Birds](https://i.imgur.com/kCWkYzc.png)
+
+- Here we show that individuals of northern bald ibises (Geronticus eremita) flying in a V flock position themselves in aerodynamically optimum positions, in that they agree with theoretical aerodynamic predictions. Furthermore, we demonstrate that birds show wingtip path coherence when flying in V positions, flapping spatially in phase and thus enabling upwash capture to be maximized throughout the entire flap cycle
+- this mechanism reduces heart rate and wing-beat frequency 
+- maybe also use wingtips (aka leaves) to track 
+- Flapping in spatial phase indicates that the wing of a following bird goes up and down tracking the path through the air previously described by the bird ahead. The following bird then benefits from consistently flapping into the upwash region from the preceding bird (Fig. 3b, c), presumably reducing the power requirements for weight support
+- temporal phasing of flapping relates both to streamwise and to spanwise position. This indicates remarkable awareness of, and ability to respond to, the wing- path—and thereby the spatial wake structure—of nearby flock-mates
+- Birds (equipped in Zoo Vienna) with Data loggers (GPS 5 Hz
+- Initial Data Processing: interpolation replaced missing values in the GPS; GPS and accelerometer data were passed through a fourth-order Butterworth filter
+- To calculate the centroid of the flock, the MATLAB function ‘centroid’ was used. This function calculates the centroid of a polygon. The MATLAB centroid function treated each bird as a point of a polygon, and determined the centroid for each time point.
 
 ###  [Identity Recognition Algorithm Using Improved Gabor Feature Selection of Gait Energy Image](https://ui.adsabs.harvard.edu/abs/2017JPhCS.787a2015C/abstract)
 
