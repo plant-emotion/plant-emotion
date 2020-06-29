@@ -37,12 +37,14 @@ categories: project
 
 #### Sebastian: Status Quo [20 min]
 
-1. Results of [Sprint 4 Results](https://plantions.github.io/project/2020/06/27/sprint-4.html).
+1. Results of [Sprint 4](https://plantions.github.io/project/2020/06/27/sprint-4.html).
 2. Manual for [Object Tracker](https://plantions.github.io/project/2020/06/25/instructions.html).
-3. Next steps [Alternative Object Tracking Modelling based on Papers provided by Peter](https://plantions.github.io/project/2020/06/27/alternative-modeling.html).
+3. Discussion [Alternative Object Tracking Modelling based on Papers provided by Peter](https://plantions.github.io/project/2020/06/27/alternative-modeling.html).
 4. Bildungskarenz Roadmap Scenarios:
 
 ![Spatial Roadmap](https://i.imgur.com/aFFt2St.png)
+
+5. Next Steps: Concluded tomorrow for [Sprint 5](https://plantions.github.io/project/2020/06/30/sprint-5.html).
 
 ### Next Steps [10 min]
 
