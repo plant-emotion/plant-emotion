@@ -42,7 +42,7 @@ categories: project
 3. Next steps [Alternative Object Tracking Modelling based on Papers provided by Peter](https://plantions.github.io/project/2020/06/27/alternative-modeling.html).
 4. Bildungskarenz Roadmap Scenarios:
 
-![Spatial Roadmap](https://i.imgur.com/bM8qsI6.png)
+![Spatial Roadmap](https://i.imgur.com/aFFt2St.png)
 
 ### Next Steps [10 min]
 
