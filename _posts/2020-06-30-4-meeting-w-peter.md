@@ -23,9 +23,11 @@ categories: project
 #### Josephine: Status Quo [20 min]
 
 ##### Status Quo
-tbd
+- Focused on setting up interactive notebook
+- Started turning interactive notebook into HTML/ "web app"
+- Worked on distinguishing plants with clustering
 ##### Next Steps
-tbd
+- Focus on interactive web app that can be added to blog
 
 #### Buenyamin: Status Quo [5 min]
 
