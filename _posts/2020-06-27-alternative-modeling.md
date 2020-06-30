@@ -7,7 +7,16 @@ categories: project
 
 On June 19, Peter Gloor provided us with alternative modelling ideas. The ideas are briefly summarized hereafter. Following the question: Perhaps it is worthwhile to model the "step", "wing beat", or "swimming movement" of the Codariocalyx or Mimosa?
 
-##  Reserach Papers
+## Discussions Points
+
+- Fish Tracking: Will replicate most of it. how to get lines behind movements?
+- Shoals of fish: when both neighbours are far in front of, or far behind, the focal fish (2-4 body lengths), there is a strong tendency to speed up/slow down. >>> Application to plant branches.
+- Birds: bald ibises fly in a V flock position in aerodynamically optimum positions, in that they agree with theoretical aerodynamic predictions.
+- Gait: What is GEI computation? What did you learn?
+
+---
+
+##  Research Papers
 
 ### [Automatically Detect and Track Multiple Fish Swimming in Shallow Water with Frequent Occlusion](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106506)
 
@@ -15,14 +24,16 @@ On June 19, Peter Gloor provided us with alternative modelling ideas. The ideas 
 
 - Authors propose a sophisticated detection (DoH blob, extreme points, ellipse fitting and constraint) and tracking (motion prediction, feature matching, initial trajectory, and trajectory linking) method.
 - Target detection method:
-    - Determinant of Hessian (DoH) to detect image blobs in scale-space. Created by convolving the image with Gaussian kernel function.
-    - Ellipse fitting and constraint: fit ellipse by using second-order derivative of extreme point giving a plurality of head position candidates. Therefore, used a width threshold value w.
+    - Determinant of Hessian (DoH) to detect image [blobs](https://en.wikipedia.org/wiki/Blob_detection) in scale-space. Created by convolving the image with [Gaussian kernel function](https://kite.com/python/docs/skimage.feature.blob_doh).
+    - Ellipse fitting and constraint: fit ellipse by using second-order derivative of extreme point giving a plurality of head position candidates. Therefore, used a width threshold value w. (cv2.ellipse())
     - Use of Otsu thresholding for image segmentation.
     - Additionally, use of contrast constraint (if contrast > k) then head region is considered a head; and angle constraint (if angle is less than 30 degrees that may be a duplicate detection).
+
 - Target tracking method:
-    - Motion prediction: Fish motion is a four-dim vector (x,y, v(x), v(y)) i.e. x, y value and velocity of both moving. Then, movement is predicted by Kalman filter. Inclusion of a compensation window (as only movements ±45 degrees are reasonable).
+    - [Motion prediction](https://towardsdatascience.com/kalman-filters-a-step-by-step-implementation-guide-in-python-91e7e123b968): Fish motion is a four-dim vector (x,y, v(x), v(y)) i.e. x, y value and velocity of both moving. Then, movement is predicted by [Kalman filter](https://de.wikipedia.org/wiki/Kalman-Filter). Inclusion of a compensation window (as only movements ±45 degrees are reasonable).
     - Feature matching: Find effective features that reflect the similarity among images of the same target and dissimilarity between images of different targets. Active contour model is used for the extraction of fish head contours. Matching cascade: width matching, area matching and gray matching.
     - Trajectory linking: Use of state variables for linking.
+
 - Experiments and discussion: Authors tried other fish types, and were also successful with their approach.
 
 ###  [Inferring the structure and dynamics of interactions in schooling fish](https://www.pnas.org/content/108/46/18720.short)
@@ -39,14 +50,14 @@ On June 19, Peter Gloor provided us with alternative modelling ideas. The ideas 
 
 - Analysis three shoals of fish: when both neighbors are far in front of, or far behind, the focal fish (2-4 body lengths), there is a strong tendency to speed up/slow down.
 
-- Analysis of even bigger shoals of fish: Predominant response of individuals in larger groups is to maintain spacing with near neighbors, decelerating or accelerating to avoid those very close behind or ahead, respectively, or to turn away from neighbors who approach very closely from either side.
+- Analysis of even bigger shoals of fish: _Predominant response of individuals in larger groups is to maintain spacing with near neighbors, decelerating or accelerating to avoid those very close behind or ahead, respectively, or to turn away from neighbors who approach very closely from either side._
 
 - Discussion:
     - Observance of mean effective forces that depend on non-trivial combinations of neighbors' position and velocity, such as position-dependent restitution forces and preferred distances to neighbors that increase for faster-moving fish.
     - __Research Gap: Our approach should also be applied to kinematic data from other animals and other species of fish to determine which aspects of the effective forces are universal signatures of biological groups.__
     - Note: Group heading is determined by frontal group members passing information to the rear (43, 44)
     - Novelty: Speed information flows bi-directionally, with fish responding to speed changes of those swimming ahead and behind.
-    - The main feature of the residual three-body interaction is an excess restitution force that helps the focal fish remain in configurations where it is between its two neighbors.
+    - The main feature of the residual three-body interaction is an excess restitution force that helps the focal fish remain in configurations where it is between its two neighbours.
 
 - [Tracking Method](http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1107583108/-/DCSupplemental/pnas.1107583108_SI.pdf?targetid=STXT): Data extraction is performed using the OpenCV library. As fish appear darker than the surrounding area, the images are converted to grayScale and inverted. A background image is made by averaging a sufficiently large number of frames (until fish are no longer visible) and subtracted from each frame. The fish are then identified by thresholding with an empirically determined constant value. The contours of each fish are obtained by applying an edge-detection algorithm on the thresholded image and approximated by polygons.
 
@@ -58,7 +69,7 @@ On June 19, Peter Gloor provided us with alternative modelling ideas. The ideas 
 - *Maybe also use wingtips (aka leaves) to track.*
 - Flapping in spatial phase indicates that wing of a following bird goes up and down tracking the path through the air previously described by the bird ahead. The following bird benefits from consistently flapping into the upwash region from the preceding bird, presumably reducing the power requirements for weight support.
 - Temporal phasing of flapping relates to streamwise and spanwise position. This indicates remarkable awareness of, and ability to respond to, the wing path and thereby the spatial wake structure of nearby flock-mates.
-- Method: Birds (equipped in Zoo Vienna) with Data loggers (GPS 5 Hz.
+- Method: Birds (equipped in Zoo Vienna) with Data loggers (GPS 5 Hz).
 - Initial Data Processing: Interpolation replaced missing values in the GPS; GPS and accelerometer data were passed through a fourth-order Butterworth filter. *Maybe use this for the bfill and ffill.*
 - For centroid calculus of the flock, MATLAB function ‘centroid’ was used which calculates the centroid of a polygon. The MATLAB centroid function treated each bird as a point of a polygon, and determined the centroid for each time point. *Use Python OpenCV cv2.approxPolyDP()*
 

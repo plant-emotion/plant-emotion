@@ -31,7 +31,6 @@ categories: project
 
 #### Buenyamin: Status Quo [5 min]
 
-- tbd
 - Presentation at the Brown Bag on July 1, 2020.
 - Master Thesis from November 2020 onwards.
 
@@ -39,12 +38,11 @@ categories: project
 
 1. Results of [Sprint 4](https://plantions.github.io/project/2020/06/27/sprint-4.html).
 2. Manual for [Object Tracker](https://plantions.github.io/project/2020/06/25/instructions.html).
-3. Discussion [Alternative Object Tracking Modelling based on Papers provided by Peter](https://plantions.github.io/project/2020/06/27/alternative-modeling.html).
-4. Next Steps: Concluded tomorrow for [Sprint 5](https://plantions.github.io/project/2020/06/30/sprint-5.html).
-5. Bildungskarenz Roadmap Scenarios:
+3. Discussion [Papers provided by Peter](https://plantions.github.io/project/2020/06/27/alternative-modeling.html).
+4. Next Steps: [Sprint 5](https://plantions.github.io/project/2020/06/30/sprint-5.html).
+5. Bildungskarenz Spatial Scenarios:
 
 ![Spatial Roadmap](https://i.imgur.com/aFFt2St.png)
-
 
 
 ### Next Steps [10 min]

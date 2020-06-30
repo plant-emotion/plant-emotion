@@ -55,7 +55,7 @@ categories: project
 
 ## Thresholding w/ Scikit-image
 
-- More thresh techniques: Otsu and Triangle are global threshholding techniques (i.e. background is uniform); while __Niblack and Sauvola__ are __local__ thresholding techniques (better for plants because background is not uniform; internal note see 'Sauvola').
+- More thresh techniques: Otsu and Triangle are global thresholding techniques (i.e. background is uniform); while __Niblack and Sauvola__ are __local__ thresholding techniques (better for plants because background is not uniform; internal note see 'Sauvola').
 
 # Chapter 8 - Contour Detection, Filtering, and Drawing
 
@@ -81,7 +81,7 @@ categories: project
 
 ## Hu Moment Invariants
 
-- Are invariant with respect to translation, scale, and rotation and all the moments are invariant to reflection.
+- Are invariant with respect to translation, scale, and rotation, and all the moments are invariant to reflection.
 - First calc the moments by using cv2.moments(), afterwards use cv2.cvtColor to make image binary, then calc the hu moments.
 
 ## Zernike Moments
@@ -129,7 +129,6 @@ categories: project
 - Look for Harris Corner detection; check again on DataCamp platform for the good algorithms.
 - Show real image for multiple thresholds (compare multiple thresholds1 and multiple thresholds2).
 - Check histogram for your flying paprika.
-- Get the git code for the whole book and try it out.
 - Do the FLASK web project on Face Recognition & host on your web page as a weekend project.
 
 #### Residuals Chapter Overview
@@ -143,13 +142,3 @@ categories: project
 - Chapter 11 deals with Face Detection, Tracking, and Recognition
 - Chapter 12 introduces Deep Learning
 - Chapter 13 is on Mobile and Web Computer Vision (like recognizing cats)
-
-#### Links
-
-- [Dilation and Erosion](https://docs.opencv.org/2.4/doc/tutorials/imgproc/erosion_dilatation/erosion_dilatation.html)
-- [Mask Thresholding](https://docs.opencv.org/3.4/d7/d4d/tutorial_py_thresholding.html)
-- [Contour Feature](https://docs.opencv.org/trunk/dd/d49/tutorial_py_contour_features.html)
-- [Plotting with Altair](https://altair-viz.github.io/getting_started/overview.html)
-- [Plotting Peak Width with SciKit Learn](https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.peak_widths.html#scipy.signal.peak_widths)
-- [Smoothing Time Series](https://towardsdatascience.com/time-series-in-python-exponential-smoothing-and-arima-processes-2c67f2a52788)
-- [Peak Detection](https://pythonawesome.com/overview-of-the-peaks-dectection-algorithms-available-in-python/)
