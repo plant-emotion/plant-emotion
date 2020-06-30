@@ -72,9 +72,3 @@ On June 19, Peter Gloor provided us with alternative modelling ideas. The ideas 
 - Gait feature dimension reduction based on Kernel Fisher Analysis: Idea is to yield nonlinear discriminant analysis in the higher space as F.
 - Nearest neighbour classifier based on whitened cosine similarity measure: GEIs are normalized and aligned so to be clustered by distance measures.
 - Recognition scoring is based on ROC and CMC measures.
-
-###  Additional Videos
-
-- [Mimosa 400x Speedup](https://www.dropbox.com/s/dun532o3s1c49xi/Codariocalyx%2BMimosa-400x.mp4?dl=1)
-- [Mimosa 400x Speedup ohne Sound](https://www.dropbox.com/s/1o60nbvionp4uu0/mimosa_nosound-400x.mp4?dl=1)
-- [Codariocalyx no Peter](https://www.dropbox.com/s/lb24eyw57qdiocc/codariocalyx_nopeter_nosound-400x.mp4?dl=1)
