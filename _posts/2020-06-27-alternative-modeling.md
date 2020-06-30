@@ -13,7 +13,8 @@ On June 19, Peter Gloor provided us with alternative modelling ideas. The ideas 
 - __Shoals of Fish__: When neighbouring fish are far in front of, or far behind the focal fish, there is a strong tendency to speed up/slow down. >> Apply to plant branches?
 - __Birds__: Ibises fly in a V flock position in aerodynamically optimum positions, in that they agree with theoretical aerodynamic predictions. >> Apply to plant branches?
 - __Gait__: What is GEI computation? What did you learn?
-- What are your take-aways?
+
+
 ---
 
 ##  Research Papers
