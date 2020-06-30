@@ -9,18 +9,18 @@ On June 19, Peter Gloor provided us with alternative modelling ideas. The ideas 
 
 ## Discussions Points
 
-- Fish Tracking: Will replicate most of it. how to get lines behind movements?
-- Shoals of fish: when both neighbours are far in front of, or far behind, the focal fish (2-4 body lengths), there is a strong tendency to speed up/slow down. >>> Application to plant branches.
-- Birds: bald ibises fly in a V flock position in aerodynamically optimum positions, in that they agree with theoretical aerodynamic predictions.
+- Fish Tracking: Great and uses OpenCV. I will replicate most of it. How to get lines behind movements?
+- Shoals of Fish: When neighbouring fish are far in front of, or far behind the focal fish, there is a strong tendency to speed up/slow down. >> Apply to plant branches?
+- Birds: Ibises fly in a V flock position in aerodynamically optimum positions, in that they agree with theoretical aerodynamic predictions. >> Apply to plant branches?
 - Gait: What is GEI computation? What did you learn?
-
+- What are your take-aways?
 ---
 
 ##  Research Papers
 
 ### [Automatically Detect and Track Multiple Fish Swimming in Shallow Water with Frequent Occlusion](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106506)
 
-![Fish](https://i.imgur.com/Cb1Pkq1.png)
+![Fish](https://i.imgur.com/KnuH33h.png)
 
 - Authors propose a sophisticated detection (DoH blob, extreme points, ellipse fitting and constraint) and tracking (motion prediction, feature matching, initial trajectory, and trajectory linking) method.
 - Target detection method:
