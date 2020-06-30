@@ -9,10 +9,10 @@ On June 19, Peter Gloor provided us with alternative modelling ideas. The ideas 
 
 ## Discussions Points
 
-- Fish Tracking: Great and uses OpenCV. I will replicate most of it. How to get lines behind movements?
-- Shoals of Fish: When neighbouring fish are far in front of, or far behind the focal fish, there is a strong tendency to speed up/slow down. >> Apply to plant branches?
-- Birds: Ibises fly in a V flock position in aerodynamically optimum positions, in that they agree with theoretical aerodynamic predictions. >> Apply to plant branches?
-- Gait: What is GEI computation? What did you learn?
+- __Fish Tracking__: Great and uses OpenCV. I will replicate most of it. How to get lines behind movements?
+- __Shoals of Fish__: When neighbouring fish are far in front of, or far behind the focal fish, there is a strong tendency to speed up/slow down. >> Apply to plant branches?
+- __Birds__: Ibises fly in a V flock position in aerodynamically optimum positions, in that they agree with theoretical aerodynamic predictions. >> Apply to plant branches?
+- __Gait__: What is GEI computation? What did you learn?
 - What are your take-aways?
 ---
 
