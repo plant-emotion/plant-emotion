@@ -35,7 +35,7 @@ categories: project
 #### Sebastian: Status Quo [20 min]
 
 1. Discussion of [manuscript for scientific contribution](https://drive.google.com/file/d/1FjNXeMPaLJNyggLKS7OI0_XcHgBqT_vz/view?usp=sharing).
-2. Optional: [Status Quo Object Tracker and PlantCV](t.b.d)
+2. Optional: [Status Quo Object Tracker and PlantCV](https://seduerr91.github.io/blog/basil).
 3. Next Steps: Integrating health checker into tracking software / integrating feedback of this session.
 
 ### Next Steps [10 min]
@@ -44,4 +44,4 @@ categories: project
 
 ### Thank you Peter for your time, and patience!
 
-Links: [object tracker](https://colab.research.google.com/drive/1LOJJ4m3IOzBFbuoFG4rk3poPUFo_VJwB#scrollTo=o5216nQAQXCT) & [plantCV](https://github.com/plantions/video-edge-extractor/blob/master/working_small_white_morphology.ipynb).
+Links: [my object tracking results](https://colab.research.google.com/drive/1LOJJ4m3IOzBFbuoFG4rk3poPUFo_VJwB#scrollTo=o5216nQAQXCT) & [my plantCV playground](https://github.com/plantions/video-edge-extractor/blob/master/working_small_white_morphology.ipynb).
