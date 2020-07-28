@@ -44,4 +44,4 @@ categories: project
 
 ### Thank you Peter for your time, and patience!
 
-Links: [my object tracking results](https://colab.research.google.com/drive/1LOJJ4m3IOzBFbuoFG4rk3poPUFo_VJwB#scrollTo=o5216nQAQXCT) & [my plantCV playground](https://github.com/plantions/video-edge-extractor/blob/master/working_small_white_morphology.ipynb).
+Links: [Sebastian object tracking status quo](https://colab.research.google.com/drive/1LOJJ4m3IOzBFbuoFG4rk3poPUFo_VJwB#scrollTo=o5216nQAQXCT) & [Sebastian plantCV playground](https://github.com/plantions/video-edge-extractor/blob/master/working_small_white_morphology.ipynb).
