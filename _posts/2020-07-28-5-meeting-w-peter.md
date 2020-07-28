@@ -33,12 +33,14 @@ categories: project
 
 #### Sebastian: Status Quo [20 min]
 
-1. Outlining [project for planned scientific contribution](https://drive.google.com/file/d/1FjNXeMPaLJNyggLKS7OI0_XcHgBqT_vz/view?usp=sharing).
-2. Optional: Update on [object tracker](https://colab.research.google.com/drive/1LOJJ4m3IOzBFbuoFG4rk3poPUFo_VJwB#scrollTo=o5216nQAQXCT) & introduction to [plantCV](https://github.com/plantions/video-edge-extractor/blob/master/working_small_white_morphology.ipynb).
-3. Next Steps [Sprint 6](https://plantions.github.io/project/2020/07/30/sprint-6.html).
+1. Outlining [Manuscript for scientific contribution](https://drive.google.com/file/d/1FjNXeMPaLJNyggLKS7OI0_XcHgBqT_vz/view?usp=sharing).
+2. Optional: [Status Quo Object Tracker and PlantCV](t.b.d)
+3. Next Steps: Integrating health checker into tracking software / integrating feedback of this session.
 
 ### Next Steps [10 min]
 
 - Next Appointment: Tuesday, August 18, 2020, at 6pm Swiss time.
 
 ### Thank you Peter for your time, and patience!
+
+Links: [object tracker](https://colab.research.google.com/drive/1LOJJ4m3IOzBFbuoFG4rk3poPUFo_VJwB#scrollTo=o5216nQAQXCT) & [plantCV](https://github.com/plantions/video-edge-extractor/blob/master/working_small_white_morphology.ipynb).
