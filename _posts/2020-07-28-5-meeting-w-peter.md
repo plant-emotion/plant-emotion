@@ -15,8 +15,8 @@ categories: project
 
 ### Organizational Matters [5 min]
 
-- Thank you Peter so much for your continuous help, patience, and the chance to be a Visiting Grad Student at MIT in Boston.
-- MIT ISO on Q&A for new students on July 24: No visiting grad students will be invited for Fall term. Sebastian would still come then for Spring term. Sebastian would also continue to research and work on the project.
+- Thank you Peter so much for your continuous help, patience, and our chance to be a Visiting Grad Student at MIT in Boston.
+- MIT ISO on Q&A for new students on July 24: Visiting grad students will not be invited for Fall term. Sebastian would still plan with Spring term. Sebastian will also continue to research and work on the project.
 
 ### Status Quo
 
@@ -31,14 +31,11 @@ categories: project
 
 #### Buenyamin: Status Quo [5 min]
 
-- Presentation at the Brown Bag on July 1, 2020.
-- Master Thesis from November 2020 onwards.
-
 #### Sebastian: Status Quo [20 min]
 
-1. Drafting a [manuscript for a scientific contribution](https://seduerr91.github.io/blog/plant-happiness).
-2. Update on [object tracker](https://colab.research.google.com/drive/1kt9aS1GiusBFyPyqZkVkX5Uy2UejVBVf#scrollTo=o5216nQAQXCT). ## To Do: Add to public.
-3. Next Steps in [sprint 5 & beyond](https://plantions.github.io/project/2020/07/30/sprint-6.html).
+1. Outlining [project for planned scientific contribution](https://drive.google.com/file/d/1FjNXeMPaLJNyggLKS7OI0_XcHgBqT_vz/view?usp=sharing).
+2. Optional: Update on [object tracker](https://colab.research.google.com/drive/1LOJJ4m3IOzBFbuoFG4rk3poPUFo_VJwB#scrollTo=o5216nQAQXCT) & introduction to [plantCV](https://github.com/plantions/video-edge-extractor/blob/master/working_small_white_morphology.ipynb).
+3. Next Steps [Sprint 6](https://plantions.github.io/project/2020/07/30/sprint-6.html).
 
 ### Next Steps [10 min]
 
