@@ -8,17 +8,25 @@ categories: project
 ## Agenda
 
 1. Organizational Matters [5 min]
-2. Status Quo Scholars
+2. Status Quo Scholars [10 min]
 3. Next Steps [10 min]
 
-## Content
+## Contents
 
 ### Organizational Matters [5 min]
 
+- Appointment in Zurich
+
 ### Status Quo Scholars
 
-#### Josephine: Status Quo [20 min]
-#### Buenyamin: Status Quo [5 min]
-#### Sebastian: Status Quo [20 min]
+#### Josephine: Status Quo
+#### Buenyamin: Status Quo
+#### Sebastian: Status Quo
 
-### Next Steps [10 min]
+- Was on Vacay.
+- Did experiments with different music genres and basil.
+- Will work on PlantCV.
+
+### Next Steps
+
+Next appointment: 08.09.2020, 6pm.
