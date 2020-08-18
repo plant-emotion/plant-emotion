@@ -24,7 +24,7 @@ categories: project
 #### Sebastian: Status Quo
 
 - Was on Vacay.
-- Did experiments with different music genres and basil.
+- Did [experiments](https://docs.google.com/presentation/d/1fGcQx98Npxusj427QNh7fO8XcYlypkkRVXcHwjF_sV8/edit?usp=sharing) with different music genres and basil.
 - Will work on PlantCV.
 
 ### Next Steps
