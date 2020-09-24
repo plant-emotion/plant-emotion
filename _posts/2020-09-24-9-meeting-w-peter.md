@@ -1,32 +1,15 @@
 ---
 layout: post
-title: "Update: Plant Emotions with Peter"
+title: "Review: Gut Rheinau"
 author: "Josephine, Buenyamin & Sebastian"
 categories: project
 ---
 
 ## Agenda
 
-1. Organizational Matters [5 min]
-2. Status Quo Scholars [10 min]
-3. Next Steps [10 min]
+Today, we talk on how to continue with the experiment.
 
-## Contents
+Tasks to do:
 
-### Organizational Matters [5 min]
-
-- Appointment in Zurich
-
-### Status Quo Scholars
-
-#### Josephine: Status Quo
-#### Buenyamin: Status Quo
-#### Sebastian: Status Quo
-
-- Was on Vacay.
-- Did [experiments](https://docs.google.com/presentation/d/1fGcQx98Npxusj427QNh7fO8XcYlypkkRVXcHwjF_sV8/edit?usp=sharing) with different music genres and basil.
-- Will work on PlantCV.
-
-### Next Steps
-
-Next appointment: 08.09.2020, 6pm.
+- Write the report for Gut Rheinau.
+- Do the data analysis. Write an English contribution from it.
