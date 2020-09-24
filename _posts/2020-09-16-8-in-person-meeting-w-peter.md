@@ -1,32 +1,8 @@
 ---
 layout: post
-title: "Update: Plant Emotions with Peter"
+title: "Experiments on Gut Rheinau"
 author: "Josephine, Buenyamin & Sebastian"
 categories: project
 ---
 
-## Agenda
-
-1. Organizational Matters [5 min]
-2. Status Quo Scholars [10 min]
-3. Next Steps [10 min]
-
-## Contents
-
-### Organizational Matters [5 min]
-
-- Appointment in Zurich
-
-### Status Quo Scholars
-
-#### Josephine: Status Quo
-#### Buenyamin: Status Quo
-#### Sebastian: Status Quo
-
-- Was on Vacay.
-- Did [experiments](https://docs.google.com/presentation/d/1fGcQx98Npxusj427QNh7fO8XcYlypkkRVXcHwjF_sV8/edit?usp=sharing) with different music genres and basil.
-- Will work on PlantCV.
-
-### Next Steps
-
-Next appointment: 08.09.2020, 6pm.
+Contents: We met at 10am at Gut Rheinau and did many experiments that day. Read the results in German [here](https://seduerr91.github.io//blog/eurythmics).
